@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [Combat Dock]
+## Author: Mewtiny
+## Notes: Auto swaps docked meters and loot when in and out of combat
+## Version: 1.0
+## Dependencies: pfUI
+
+# main
+pfUI-combatdock.lua
