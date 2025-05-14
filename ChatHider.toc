@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Chat Hider
+## Notes: Hides chat during combat
+## Dependencies: pfUI
+ChatHider.lua
